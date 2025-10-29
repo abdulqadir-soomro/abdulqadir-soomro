@@ -48,18 +48,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| **🔥 Ecommerce Web App** | A real-time product listing and admin dashboard system | React, Firebase, Tailwind |
-| **🎧 Music Streaming UI** | Spotify-inspired UI with smooth UX animations | Next.js, TailwindCSS |
-| **🛍 Product Dashboard** | Admin panel with secure auth + product management | Node.js, Express, MongoDB |
-
-> Want these showcased with screenshots? Tell me **“Add images”** 📸
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
