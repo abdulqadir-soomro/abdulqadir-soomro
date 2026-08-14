@@ -64,9 +64,9 @@
 ## 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/abdul-qadir-soomro5370" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a>
+  <a href="https://linkedin.com/in/abdul-qadir970" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a>
   &nbsp;&nbsp;
-  <a href="mailto:abdulqadir53970@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50"/></a>
+  <a href="mailto:abdulqadir.devloper@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50"/></a>
   &nbsp;&nbsp;
   <a href="https://abdul-qadir-portfolio-delta.vercel.app/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" width="50"/></a>
 </p>
